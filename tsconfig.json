@@ -11,6 +11,12 @@
     "sourceMap": true,
     "declaration": false,
     "downlevelIteration": true,
+    "paths": {
+      "ng-ab-tel-input": [
+        "dist/ng-ab-tel-input/ng-ab-tel-input",
+        "dist/ng-ab-tel-input"
+      ]
+    },
     "experimentalDecorators": true,
     "moduleResolution": "node",
     "importHelpers": true,
